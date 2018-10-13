@@ -1,0 +1,6 @@
+git config --global user.email "nexobite29@gmail.com"
+git config --global user.name "CavinAppel"
+
+git add .
+git commit -m"__"
+git push origin master
